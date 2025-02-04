@@ -1,0 +1,31 @@
+.register-card {
+    max-width: 400px;
+    margin: 2rem auto;
+    padding: 2rem;
+    color: antiquewhite;
+    background-color: rgb(28, 49, 42);
+  }
+  
+  mat-form-field {
+    width: 100%;
+    margin-bottom: 1rem;
+   
+  }
+  
+  button[mat-raised-button] {
+    width: 100%;
+    color: wheat;
+  }
+  mat-card-header{
+    margin-bottom: 20px;
+  }
+ 
+  button.loinbutton {
+    color: wheat;
+    
+  }
+  
+  button.loinbutton:hover {
+    background-color: #24906e; /* Darker shade on hover */
+    border-radius: 25px;
+  }

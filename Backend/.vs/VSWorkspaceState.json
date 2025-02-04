@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TaskManagementApplication.Core",
+    "\\TaskManagementApplication.Core\\Configuration",
+    "\\TaskManagementApplication.Core\\Domain",
+    "\\TaskManagementApplication.Core\\Domain\\Entities",
+    "\\TaskManagementApplication.Core\\Helpers",
+    "\\TaskManagementApplication.Infrastructure",
+    "\\TaskMangementApplication.UI"
+  ],
+  "SelectedNode": "\\TaskMangementApplicationSolution.sln",
+  "PreviewInSolutionExplorer": false
+}

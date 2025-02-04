@@ -1,0 +1,46 @@
+.user-dashboard {
+    padding: 20px;
+   
+  }
+  
+  table {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  select {
+    padding: 5px;
+    border-radius: 5px;
+  }
+  .logout-btn {
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 5px;
+    margin-left: 1370px;
+    margin-top: 20px;
+     
+  }
+
+  mat-form-field {
+    margin-top: 20px;
+  }
+
+  
+  .logout-btn:hover {
+    background-color: #cc0000;
+  }
+  .user-info {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    margin: 20px 0;
+  }
+  
+  .user-info p {
+    font-size: 16px;
+  }
+  

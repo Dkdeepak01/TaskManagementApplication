@@ -1,0 +1,24 @@
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Core\obj\Debug\net8.0\TaskManagementApplication.Core.csproj.AssemblyReference.cache
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Core\obj\Debug\net8.0\TaskManagementApplication.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Core\obj\Debug\net8.0\TaskManagementApplication.Core.AssemblyInfoInputs.cache
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Core\obj\Debug\net8.0\TaskManagementApplication.Core.AssemblyInfo.cs
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Core\obj\Debug\net8.0\TaskManagementApplication.Core.csproj.CoreCompileInputs.cache
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Core\bin\Debug\net8.0\TaskManagementApplication.Core.deps.json
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Core\bin\Debug\net8.0\TaskManagementApplication.Core.dll
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Core\bin\Debug\net8.0\TaskManagementApplication.Core.pdb
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Core\obj\Debug\net8.0\TaskManagementApplication.Core.dll
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Core\obj\Debug\net8.0\refint\TaskManagementApplication.Core.dll
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Core\obj\Debug\net8.0\TaskManagementApplication.Core.pdb
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Core\obj\Debug\net8.0\ref\TaskManagementApplication.Core.dll
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Core\bin\Debug\net8.0\TaskManagementApplication.Core.deps.json
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Core\bin\Debug\net8.0\TaskManagementApplication.Core.dll
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Core\bin\Debug\net8.0\TaskManagementApplication.Core.pdb
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Core\obj\Debug\net8.0\TaskManagementApplication.Core.csproj.AssemblyReference.cache
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Core\obj\Debug\net8.0\TaskManagementApplication.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Core\obj\Debug\net8.0\TaskManagementApplication.Core.AssemblyInfoInputs.cache
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Core\obj\Debug\net8.0\TaskManagementApplication.Core.AssemblyInfo.cs
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Core\obj\Debug\net8.0\TaskManagementApplication.Core.csproj.CoreCompileInputs.cache
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Core\obj\Debug\net8.0\TaskManagementApplication.Core.dll
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Core\obj\Debug\net8.0\refint\TaskManagementApplication.Core.dll
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Core\obj\Debug\net8.0\TaskManagementApplication.Core.pdb
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Core\obj\Debug\net8.0\ref\TaskManagementApplication.Core.dll

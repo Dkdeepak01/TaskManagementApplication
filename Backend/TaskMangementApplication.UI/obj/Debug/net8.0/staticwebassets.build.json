@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "ubWqVJKQJMA0gZGCMzAtXrGmqd8f4g93SRB5h6ZL+9I=",
+  "Source": "TaskMangementApplication.UI",
+  "BasePath": "_content/TaskMangementApplication.UI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TaskMangementApplication.UI\\wwwroot",
+      "Source": "TaskMangementApplication.UI",
+      "ContentRoot": "C:\\New folder (2)\\TaskMangementApplicationSolution\\TaskMangementApplication.UI\\wwwroot\\",
+      "BasePath": "_content/TaskMangementApplication.UI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\New folder (2)\\TaskMangementApplicationSolution\\TaskMangementApplication.UI\\wwwroot\\favicon.ico",
+      "SourceId": "TaskMangementApplication.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\New folder (2)\\TaskMangementApplicationSolution\\TaskMangementApplication.UI\\wwwroot\\",
+      "BasePath": "_content/TaskMangementApplication.UI",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

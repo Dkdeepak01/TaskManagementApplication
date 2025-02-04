@@ -1,0 +1,583 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAE9E48-4EF9-4AEF-81C8-79B19F3D4F0B}|TaskMangementApplication.UI\\TaskMangementApplication.UI.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmangementapplication.ui\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAE9E48-4EF9-4AEF-81C8-79B19F3D4F0B}|TaskMangementApplication.UI\\TaskMangementApplication.UI.csproj|solutionrelative:taskmangementapplication.ui\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAE9E48-4EF9-4AEF-81C8-79B19F3D4F0B}|TaskMangementApplication.UI\\TaskMangementApplication.UI.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmangementapplication.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAE9E48-4EF9-4AEF-81C8-79B19F3D4F0B}|TaskMangementApplication.UI\\TaskMangementApplication.UI.csproj|solutionrelative:taskmangementapplication.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAE9E48-4EF9-4AEF-81C8-79B19F3D4F0B}|TaskMangementApplication.UI\\TaskMangementApplication.UI.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmangementapplication.ui\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAE9E48-4EF9-4AEF-81C8-79B19F3D4F0B}|TaskMangementApplication.UI\\TaskMangementApplication.UI.csproj|solutionrelative:taskmangementapplication.ui\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAE9E48-4EF9-4AEF-81C8-79B19F3D4F0B}|TaskMangementApplication.UI\\TaskMangementApplication.UI.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmangementapplication.ui\\filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAE9E48-4EF9-4AEF-81C8-79B19F3D4F0B}|TaskMangementApplication.UI\\TaskMangementApplication.UI.csproj|solutionrelative:taskmangementapplication.ui\\filters\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAE9E48-4EF9-4AEF-81C8-79B19F3D4F0B}|TaskMangementApplication.UI\\TaskMangementApplication.UI.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmangementapplication.ui\\filters\\authorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAE9E48-4EF9-4AEF-81C8-79B19F3D4F0B}|TaskMangementApplication.UI\\TaskMangementApplication.UI.csproj|solutionrelative:taskmangementapplication.ui\\filters\\authorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAE9E48-4EF9-4AEF-81C8-79B19F3D4F0B}|TaskMangementApplication.UI\\TaskMangementApplication.UI.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmangementapplication.ui\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAE9E48-4EF9-4AEF-81C8-79B19F3D4F0B}|TaskMangementApplication.UI\\TaskMangementApplication.UI.csproj|solutionrelative:taskmangementapplication.ui\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAE9E48-4EF9-4AEF-81C8-79B19F3D4F0B}|TaskMangementApplication.UI\\TaskMangementApplication.UI.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmangementapplication.ui\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAE9E48-4EF9-4AEF-81C8-79B19F3D4F0B}|TaskMangementApplication.UI\\TaskMangementApplication.UI.csproj|solutionrelative:taskmangementapplication.ui\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAE9E48-4EF9-4AEF-81C8-79B19F3D4F0B}|TaskMangementApplication.UI\\TaskMangementApplication.UI.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmangementapplication.ui\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAE9E48-4EF9-4AEF-81C8-79B19F3D4F0B}|TaskMangementApplication.UI\\TaskMangementApplication.UI.csproj|solutionrelative:taskmangementapplication.ui\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B19A1DCE-59CC-46B3-9922-C9A019D96C52}|TaskManagementApplication.Infrastructure\\TaskManagementApplication.Infrastructure.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmanagementapplication.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B19A1DCE-59CC-46B3-9922-C9A019D96C52}|TaskManagementApplication.Infrastructure\\TaskManagementApplication.Infrastructure.csproj|solutionrelative:taskmanagementapplication.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B19A1DCE-59CC-46B3-9922-C9A019D96C52}|TaskManagementApplication.Infrastructure\\TaskManagementApplication.Infrastructure.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmanagementapplication.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B19A1DCE-59CC-46B3-9922-C9A019D96C52}|TaskManagementApplication.Infrastructure\\TaskManagementApplication.Infrastructure.csproj|solutionrelative:taskmanagementapplication.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmanagementapplication.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|solutionrelative:taskmanagementapplication.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmanagementapplication.core\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|solutionrelative:taskmanagementapplication.core\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmanagementapplication.core\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|solutionrelative:taskmanagementapplication.core\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmanagementapplication.core\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|solutionrelative:taskmanagementapplication.core\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmanagementapplication.core\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|solutionrelative:taskmanagementapplication.core\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmanagementapplication.core\\exceptions\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|solutionrelative:taskmanagementapplication.core\\exceptions\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmanagementapplication.core\\exceptions\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|solutionrelative:taskmanagementapplication.core\\exceptions\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmanagementapplication.core\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|solutionrelative:taskmanagementapplication.core\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmanagementapplication.core\\dto\\taskfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|solutionrelative:taskmanagementapplication.core\\dto\\taskfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmanagementapplication.core\\dto\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|solutionrelative:taskmanagementapplication.core\\dto\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmanagementapplication.core\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|solutionrelative:taskmanagementapplication.core\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmanagementapplication.core\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|solutionrelative:taskmanagementapplication.core\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmanagementapplication.core\\domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|solutionrelative:taskmanagementapplication.core\\domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmanagementapplication.core\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|solutionrelative:taskmanagementapplication.core\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmanagementapplication.core\\domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|solutionrelative:taskmanagementapplication.core\\domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmanagementapplication.core\\domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|solutionrelative:taskmanagementapplication.core\\domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmanagementapplication.core\\configuration\\applicationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|solutionrelative:taskmanagementapplication.core\\configuration\\applicationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TaskManagementDb/True/SqlTable/dbo.Tasks.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TaskManagementDb/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAE9E48-4EF9-4AEF-81C8-79B19F3D4F0B}|TaskMangementApplication.UI\\TaskMangementApplication.UI.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmangementapplication.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AAAE9E48-4EF9-4AEF-81C8-79B19F3D4F0B}|TaskMangementApplication.UI\\TaskMangementApplication.UI.csproj|solutionrelative:taskmangementapplication.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B19A1DCE-59CC-46B3-9922-C9A019D96C52}|TaskManagementApplication.Infrastructure\\TaskManagementApplication.Infrastructure.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmanagementapplication.infrastructure\\taskmanagementapplication.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B19A1DCE-59CC-46B3-9922-C9A019D96C52}|TaskManagementApplication.Infrastructure\\TaskManagementApplication.Infrastructure.csproj|solutionrelative:taskmanagementapplication.infrastructure\\taskmanagementapplication.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmanagementapplication.core\\taskmanagementapplication.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A46F620E-8F52-4E4C-9E9F-DB73CFF050AF}|TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj|solutionrelative:taskmanagementapplication.core\\taskmanagementapplication.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAE9E48-4EF9-4AEF-81C8-79B19F3D4F0B}|TaskMangementApplication.UI\\TaskMangementApplication.UI.csproj|c:\\training\\projj\\task_mangement application\\backekend\\taskmangementapplication.ui\\taskmangementapplication.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AAAE9E48-4EF9-4AEF-81C8-79B19F3D4F0B}|TaskMangementApplication.UI\\TaskMangementApplication.UI.csproj|solutionrelative:taskmangementapplication.ui\\taskmangementapplication.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 58,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{90243340-bd7a-11d0-93ef-00a0c90f2734}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskMangementApplication.UI\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "TaskMangementApplication.UI\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskMangementApplication.UI\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "TaskMangementApplication.UI\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:37:47.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskMangementApplication.UI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskMangementApplication.UI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskMangementApplication.UI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TaskMangementApplication.UI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:09:29.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskMangementApplication.UI\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "TaskMangementApplication.UI\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskMangementApplication.UI\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "TaskMangementApplication.UI\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T09:57:49.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskMangementApplication.UI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TaskMangementApplication.UI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskMangementApplication.UI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TaskMangementApplication.UI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:23:59.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "TaskManagementApplication.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "TaskManagementApplication.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwv1EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:03:49.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorizationFilter.cs",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskMangementApplication.UI\\Filters\\AuthorizationFilter.cs",
+              "RelativeDocumentMoniker": "TaskMangementApplication.UI\\Filters\\AuthorizationFilter.cs",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskMangementApplication.UI\\Filters\\AuthorizationFilter.cs",
+              "RelativeToolTip": "TaskMangementApplication.UI\\Filters\\AuthorizationFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:07:31.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidationFilter.cs",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskMangementApplication.UI\\Filters\\ValidationFilter.cs",
+              "RelativeDocumentMoniker": "TaskMangementApplication.UI\\Filters\\ValidationFilter.cs",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskMangementApplication.UI\\Filters\\ValidationFilter.cs",
+              "RelativeToolTip": "TaskMangementApplication.UI\\Filters\\ValidationFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:07:08.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskMangementApplication.UI\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "TaskMangementApplication.UI\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskMangementApplication.UI\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "TaskMangementApplication.UI\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:06:01.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskMangementApplication.UI\\Program.cs",
+              "RelativeDocumentMoniker": "TaskMangementApplication.UI\\Program.cs",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskMangementApplication.UI\\Program.cs",
+              "RelativeToolTip": "TaskMangementApplication.UI\\Program.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAE8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:32:01.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TaskManagementApplication.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TaskManagementApplication.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:02:25.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "TaskManagementApplication.Core\\Services\\UserService.cs",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\Services\\UserService.cs",
+              "RelativeToolTip": "TaskManagementApplication.Core\\Services\\UserService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:05:49.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "TaskManagementApplication.Core\\Services\\RoleService.cs",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\Services\\RoleService.cs",
+              "RelativeToolTip": "TaskManagementApplication.Core\\Services\\RoleService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:34:56.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "TaskManagementApplication.Core\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\Services\\AuthService.cs",
+              "RelativeToolTip": "TaskManagementApplication.Core\\Services\\AuthService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:36:43.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "TaskManagementApplication.Core\\Services\\AdminService.cs",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\Services\\AdminService.cs",
+              "RelativeToolTip": "TaskManagementApplication.Core\\Services\\AdminService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:00:00.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\Exceptions\\ExceptionHandler.cs",
+              "RelativeDocumentMoniker": "TaskManagementApplication.Core\\Exceptions\\ExceptionHandler.cs",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\Exceptions\\ExceptionHandler.cs",
+              "RelativeToolTip": "TaskManagementApplication.Core\\Exceptions\\ExceptionHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:18:49.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomException.cs",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\Exceptions\\CustomException.cs",
+              "RelativeDocumentMoniker": "TaskManagementApplication.Core\\Exceptions\\CustomException.cs",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\Exceptions\\CustomException.cs",
+              "RelativeToolTip": "TaskManagementApplication.Core\\Exceptions\\CustomException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:18:31.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "TaskManagementApplication.Core\\DTO\\UserDto.cs",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\DTO\\UserDto.cs",
+              "RelativeToolTip": "TaskManagementApplication.Core\\DTO\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:28:33.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TaskFilterDto.cs",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\DTO\\TaskFilterDto.cs",
+              "RelativeDocumentMoniker": "TaskManagementApplication.Core\\DTO\\TaskFilterDto.cs",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\DTO\\TaskFilterDto.cs",
+              "RelativeToolTip": "TaskManagementApplication.Core\\DTO\\TaskFilterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:29:07.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TaskDto.cs",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\DTO\\TaskDto.cs",
+              "RelativeDocumentMoniker": "TaskManagementApplication.Core\\DTO\\TaskDto.cs",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\DTO\\TaskDto.cs",
+              "RelativeToolTip": "TaskManagementApplication.Core\\DTO\\TaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:35:49.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\DTO\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "TaskManagementApplication.Core\\DTO\\RegisterDto.cs",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\DTO\\RegisterDto.cs",
+              "RelativeToolTip": "TaskManagementApplication.Core\\DTO\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:35:48.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\DTO\\LoginDto.cs",
+              "RelativeDocumentMoniker": "TaskManagementApplication.Core\\DTO\\LoginDto.cs",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\DTO\\LoginDto.cs",
+              "RelativeToolTip": "TaskManagementApplication.Core\\DTO\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:35:46.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TaskManagementApplication.Core\\Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "TaskManagementApplication.Core\\Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:35:03.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "TaskManagementApplication.Core\\Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "TaskManagementApplication.Core\\Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:34:45.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\Helpers\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "TaskManagementApplication.Core\\Helpers\\JwtHelper.cs",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\Helpers\\JwtHelper.cs",
+              "RelativeToolTip": "TaskManagementApplication.Core\\Helpers\\JwtHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:04:44.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationConfiguration.cs",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\Configuration\\ApplicationConfiguration.cs",
+              "RelativeDocumentMoniker": "TaskManagementApplication.Core\\Configuration\\ApplicationConfiguration.cs",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\Configuration\\ApplicationConfiguration.cs",
+              "RelativeToolTip": "TaskManagementApplication.Core\\Configuration\\ApplicationConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:33:11.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagementApplication.Core\\Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "TaskManagementApplication.Core\\Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:16:16.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\Domain\\Entities\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TaskManagementApplication.Core\\Domain\\Entities\\TaskItem.cs",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\Domain\\Entities\\TaskItem.cs",
+              "RelativeToolTip": "TaskManagementApplication.Core\\Domain\\Entities\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:38:02.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "dbo.Tasks.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TaskManagementDb/True/SqlTable/dbo.Tasks.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TaskManagementDb/True/SqlTable/dbo.Tasks.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-29T12:03:08.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TaskManagementDb/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/TaskManagementDb/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-29T12:03:32.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskMangementApplication.UI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TaskMangementApplication.UI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskMangementApplication.UI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TaskMangementApplication.UI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T07:03:29.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TaskManagementApplication.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Infrastructure\\TaskManagementApplication.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "TaskManagementApplication.Infrastructure\\TaskManagementApplication.Infrastructure.csproj",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Infrastructure\\TaskManagementApplication.Infrastructure.csproj",
+              "RelativeToolTip": "TaskManagementApplication.Infrastructure\\TaskManagementApplication.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-23T19:01:53.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TaskManagementApplication.Core.csproj",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj",
+              "RelativeDocumentMoniker": "TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj",
+              "RelativeToolTip": "TaskManagementApplication.Core\\TaskManagementApplication.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-23T19:30:57.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TaskMangementApplication.UI.csproj",
+              "DocumentMoniker": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskMangementApplication.UI\\TaskMangementApplication.UI.csproj",
+              "RelativeDocumentMoniker": "TaskMangementApplication.UI\\TaskMangementApplication.UI.csproj",
+              "ToolTip": "C:\\Training\\Projj\\Task_Mangement Application\\Backekend\\TaskMangementApplication.UI\\TaskMangementApplication.UI.csproj",
+              "RelativeToolTip": "TaskMangementApplication.UI\\TaskMangementApplication.UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T06:45:49.23Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 108,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

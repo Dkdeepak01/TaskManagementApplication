@@ -1,0 +1,34 @@
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\obj\Debug\net8.0\TaskManagementApplication.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\obj\Debug\net8.0\TaskManagementApplication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\obj\Debug\net8.0\TaskManagementApplication.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\obj\Debug\net8.0\TaskManagementApplication.Infrastructure.AssemblyInfo.cs
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\obj\Debug\net8.0\TaskManagementApplication.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\bin\Debug\net8.0\TaskManagementApplication.Infrastructure.deps.json
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\bin\Debug\net8.0\TaskManagementApplication.Infrastructure.runtimeconfig.json
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\bin\Debug\net8.0\TaskManagementApplication.Infrastructure.dll
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\bin\Debug\net8.0\TaskManagementApplication.Infrastructure.pdb
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\bin\Debug\net8.0\TaskManagementApplication.Core.dll
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\bin\Debug\net8.0\TaskManagementApplication.Core.pdb
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\obj\Debug\net8.0\TaskMana.FE584678.Up2Date
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\obj\Debug\net8.0\TaskManagementApplication.Infrastructure.dll
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\obj\Debug\net8.0\refint\TaskManagementApplication.Infrastructure.dll
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\obj\Debug\net8.0\TaskManagementApplication.Infrastructure.pdb
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\obj\Debug\net8.0\TaskManagementApplication.Infrastructure.genruntimeconfig.cache
+C:\Users\DeepakTiwari\source\repos\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\obj\Debug\net8.0\ref\TaskManagementApplication.Infrastructure.dll
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\bin\Debug\net8.0\TaskManagementApplication.Infrastructure.deps.json
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\bin\Debug\net8.0\TaskManagementApplication.Infrastructure.runtimeconfig.json
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\bin\Debug\net8.0\TaskManagementApplication.Infrastructure.dll
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\bin\Debug\net8.0\TaskManagementApplication.Infrastructure.pdb
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\bin\Debug\net8.0\TaskManagementApplication.Core.dll
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\bin\Debug\net8.0\TaskManagementApplication.Core.pdb
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\obj\Debug\net8.0\TaskManagementApplication.Infrastructure.csproj.AssemblyReference.cache
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\obj\Debug\net8.0\TaskManagementApplication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\obj\Debug\net8.0\TaskManagementApplication.Infrastructure.AssemblyInfoInputs.cache
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\obj\Debug\net8.0\TaskManagementApplication.Infrastructure.AssemblyInfo.cs
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\obj\Debug\net8.0\TaskManagementApplication.Infrastructure.csproj.CoreCompileInputs.cache
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\obj\Debug\net8.0\TaskMana.FE584678.Up2Date
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\obj\Debug\net8.0\TaskManagementApplication.Infrastructure.dll
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\obj\Debug\net8.0\refint\TaskManagementApplication.Infrastructure.dll
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\obj\Debug\net8.0\TaskManagementApplication.Infrastructure.pdb
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\obj\Debug\net8.0\TaskManagementApplication.Infrastructure.genruntimeconfig.cache
+C:\New folder (2)\TaskMangementApplicationSolution\TaskManagementApplication.Infrastructure\obj\Debug\net8.0\ref\TaskManagementApplication.Infrastructure.dll
